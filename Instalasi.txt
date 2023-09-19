@@ -1,0 +1,6 @@
+npm i -g @vue/cli
+vue --version
+
+vue ui
+
+--> customer port vue ui - H 0.0.0.0
